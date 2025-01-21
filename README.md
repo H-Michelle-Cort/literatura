@@ -10,18 +10,29 @@ Proyecto centrado en crear un catálogo de libros que permita interacción textu
 
 ## :computer: Herramientas de Desarrollo
 <p>
+ 
  - IntelliJ IDEA
+ 
  +Java version "17.0.12"
+ 
 -Maven
+
   +versión 4 en adelante
+  
 -Spring Boot:
+
   +versión 3.2.3
+  
 -PostgreSQL:
+
   +versión 16 en adelante
 
 -Dependencias:
+
   *Spring Data JPA
+  
   *PostgreSQL Driver
+  
   *Jackson (sugerido: versión 2.16)
 
 </p>

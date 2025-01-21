@@ -9,8 +9,8 @@ Proyecto centrado en crear un catálogo de libros que permita interacción textu
 ![Image](https://github.com/user-attachments/assets/5478d7e1-746b-4b29-8b86-d7e5d359a3e0)
 
 ## :computer: Herramientas de Desarrollo
-<p>
- - IntelliJ IDEA
+
+- IntelliJ IDEA
  
  +Java version "17.0.12"
  
@@ -34,7 +34,6 @@ Proyecto centrado en crear un catálogo de libros que permita interacción textu
   
  *Jackson (sugerido: versión 2.16)
 
-</p>
 
 ### Interacción del usuario
 <p>

@@ -11,12 +11,10 @@ Proyecto centrado en crear un catálogo de libros que permita interacción textu
 ## :computer: Herramientas de Desarrollo
 
 - IntelliJ IDEA
- 
  +Java version "17.0.12"
  
 -Maven
-
-  +versión 4 en adelante
++versión 4 en adelante
   
 -Spring Boot:
 
